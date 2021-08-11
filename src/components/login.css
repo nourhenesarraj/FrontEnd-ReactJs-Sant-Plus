@@ -1,0 +1,80 @@
+#container  {
+   background-image: url("../log.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+    padding-left: 150px;
+    padding-top: 20px;
+    margin-top : 60px;
+   
+  }
+  #container2  {
+    /* background-image: url("./../../assets/back.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 180vh;
+    padding-left: 150px;
+    padding-top: 20px;
+   
+  }
+#container3 {
+  height: 120vh;
+}
+#Card {
+  min-width: 320px;
+  height: 430px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.178);
+  margin-left: 700px;
+  
+}
+#Card1 {
+  min-width: 320px;
+  height: 520px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.178);
+  margin-left: 700px;
+  
+}
+#Card2 {
+  min-width: 320px;
+  height: 420px;
+}
+#CardRecruter{
+  min-width: 320px;
+  height: 1050px;
+}
+#Form{
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+#Button{
+  position: relative;
+  margin-left: 80px;
+}
+
+#form{
+    margin-left: 50px;
+    display:block;
+    margin-top: 30px;
+}
+#spancss{
+  font-size: 14px;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#spanbtn{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(245, 11, 128);
+}
+
+.user{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif , monospace;
+  font-weight: bold;
+  font-size: 15px;
+}
